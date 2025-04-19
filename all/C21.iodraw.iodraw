@@ -255,6 +255,9 @@
         <mxCell id="cZwIduPhgEhFBwev_U_L-43" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="830" y="130" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-44" value="报错0304：F103指令不存在" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="360" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

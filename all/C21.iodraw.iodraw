@@ -173,8 +173,8 @@
         <mxCell id="cZwIduPhgEhFBwev_U_L-21" value="将卡号与工号合并，保存至CardListF103数组" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="685" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZwIduPhgEhFBwev_U_L-23" value="将卡号与工号合并，保存至CardListF103数组" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="825" width="260" height="60" as="geometry" />
+        <mxCell id="cZwIduPhgEhFBwev_U_L-23" value="发送指令通报卡号+工号" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="825" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

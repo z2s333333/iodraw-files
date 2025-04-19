@@ -10,11 +10,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eFBV6zxv7xC9_5RUP7oq-1" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eFBV6zxv7xC9_5RUP7oq-2" target="eFBV6zxv7xC9_5RUP7oq-4">
-          <mxGeometry x="0.3333" y="-20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eFBV6zxv7xC9_5RUP7oq-2" value="5~7字节==NEW?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="200" width="160" height="80" as="geometry" />
         </mxCell>

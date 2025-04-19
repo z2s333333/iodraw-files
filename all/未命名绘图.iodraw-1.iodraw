@@ -18,12 +18,6 @@
         <mxCell id="eFBV6zxv7xC9_5RUP7oq-2" value="核对指令" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="200" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eFBV6zxv7xC9_5RUP7oq-3" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eFBV6zxv7xC9_5RUP7oq-4" target="eFBV6zxv7xC9_5RUP7oq-7">
-          <mxGeometry x="-1" y="149" relative="1" as="geometry">
-            <mxPoint x="-9" y="-50" as="offset" />
-            <mxPoint x="220" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eFBV6zxv7xC9_5RUP7oq-4" value="开头“#C”" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="340" width="100" height="80" as="geometry" />
         </mxCell>

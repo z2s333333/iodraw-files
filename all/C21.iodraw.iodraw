@@ -175,7 +175,7 @@
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZwIduPhgEhFBwev_U_L-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="980" as="targetPoint" />
+            <mxPoint x="380" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-23" value="发送指令通报卡号+工号" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

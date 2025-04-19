@@ -156,7 +156,7 @@
         <mxCell id="cZwIduPhgEhFBwev_U_L-17" value="将后续各行向上移动一行" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="379.5" y="750" width="161" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cZwIduPhgEhFBwev_U_L-19" value="将后续各行向上移动一行" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cZwIduPhgEhFBwev_U_L-19" value="发送指令至上位号：已删除该卡" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="860" width="161" height="40" as="geometry" />
         </mxCell>
       </root>

@@ -136,8 +136,14 @@
         <mxCell id="cZwIduPhgEhFBwev_U_L-11" value="检索工号" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZwIduPhgEhFBwev_U_L-13" target="cZwIduPhgEhFBwev_U_L-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-13" value="工号在CardListF103中？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365" y="540" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-15" value="" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

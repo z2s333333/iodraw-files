@@ -63,7 +63,7 @@
         <mxCell id="eFBV6zxv7xC9_5RUP7oq-18" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="10" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eFBV6zxv7xC9_5RUP7oq-20" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eFBV6zxv7xC9_5RUP7oq-20" value="前4字节==CARD?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="145" y="90" width="150" height="80" as="geometry" />
         </mxCell>
       </root>

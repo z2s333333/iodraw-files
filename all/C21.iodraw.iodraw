@@ -87,12 +87,13 @@
         <mxCell id="cZwIduPhgEhFBwev_U_L-2" value="前4字节==CARD?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="120" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cZwIduPhgEhFBwev_U_L-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZwIduPhgEhFBwev_U_L-3">
+        <mxCell id="cZwIduPhgEhFBwev_U_L-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZwIduPhgEhFBwev_U_L-3" target="cZwIduPhgEhFBwev_U_L-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="90" as="targetPoint" />
+            <mxPoint x="900" y="100" as="targetPoint" />
             <Array as="points">
               <mxPoint x="830" y="160" />
-              <mxPoint x="830" y="220" />
+              <mxPoint x="830" y="120" />
+              <mxPoint x="900" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>

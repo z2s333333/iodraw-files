@@ -130,8 +130,14 @@
         <mxCell id="cZwIduPhgEhFBwev_U_L-9" value="5~7字节==DEL？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="310" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZwIduPhgEhFBwev_U_L-11" target="cZwIduPhgEhFBwev_U_L-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-11" value="检索工号" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-13" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="540" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

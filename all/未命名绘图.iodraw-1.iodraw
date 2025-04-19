@@ -61,6 +61,13 @@
         <mxCell id="eFBV6zxv7xC9_5RUP7oq-20" value="前4字节==CARD?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="145" y="90" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="eFBV6zxv7xC9_5RUP7oq-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eFBV6zxv7xC9_5RUP7oq-22" target="eFBV6zxv7xC9_5RUP7oq-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="443" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eFBV6zxv7xC9_5RUP7oq-22" value="发送指令至语音模块“”请刷卡" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="125" y="340" width="190" height="60" as="geometry" />
         </mxCell>

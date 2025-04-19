@@ -241,7 +241,13 @@
           <mxGeometry x="665" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-39" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="190" width="40" height="30" as="geometry" />
+          <mxGeometry x="430" y="190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-40" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="675" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-41" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="60" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

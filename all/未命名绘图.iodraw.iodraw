@@ -54,7 +54,7 @@
         <mxCell id="1WGz1v7TKa8ZzDmeS5aw-1" value="读一条指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1WGz1v7TKa8ZzDmeS5aw-2" value="读一条指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1WGz1v7TKa8ZzDmeS5aw-2" value="报错0301：指令核验不通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

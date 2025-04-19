@@ -79,7 +79,7 @@
         <mxCell id="C91EPHdXfX4F6dO3gZxb-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C91EPHdXfX4F6dO3gZxb-6" target="C91EPHdXfX4F6dO3gZxb-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C91EPHdXfX4F6dO3gZxb-6" value="至模块F103" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C91EPHdXfX4F6dO3gZxb-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;至模块F103&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C91EPHdXfX4F6dO3gZxb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1WGz1v7TKa8ZzDmeS5aw-0" target="1WGz1v7TKa8ZzDmeS5aw-1">

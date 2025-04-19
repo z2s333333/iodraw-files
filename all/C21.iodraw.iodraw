@@ -116,13 +116,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cZwIduPhgEhFBwev_U_L-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZwIduPhgEhFBwev_U_L-2" target="cZwIduPhgEhFBwev_U_L-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="475" y="210" />
-              <mxPoint x="480" y="210" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZwIduPhgEhFBwev_U_L-2" target="cZwIduPhgEhFBwev_U_L-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-2" value="前4字节==FACE?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="120" width="150" height="80" as="geometry" />

@@ -123,10 +123,10 @@
         </mxCell>
         <mxCell id="C91EPHdXfX4F6dO3gZxb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1WGz1v7TKa8ZzDmeS5aw-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="950" as="targetPoint" />
+            <mxPoint x="220" y="980" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="820" y="950" />
-              <mxPoint x="270" y="950" />
+              <mxPoint x="820" y="980" />
+              <mxPoint x="220" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>

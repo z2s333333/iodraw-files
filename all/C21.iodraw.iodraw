@@ -148,7 +148,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-13" value="工号在CardListF103中？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="485" y="540" width="190" height="80" as="geometry" />
+          <mxGeometry x="539.5" y="545" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZwIduPhgEhFBwev_U_L-15" target="cZwIduPhgEhFBwev_U_L-17">
           <mxGeometry relative="1" as="geometry">
@@ -156,19 +156,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-15" value="删除该行" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="670" width="90" height="40" as="geometry" />
+          <mxGeometry x="589.5" y="670" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZwIduPhgEhFBwev_U_L-17" target="cZwIduPhgEhFBwev_U_L-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-17" value="将后续各行向上移动一行" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="564.5" y="740" width="161" height="40" as="geometry" />
+          <mxGeometry x="554" y="740" width="161" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-19" value="发送指令至上位号：已删除该卡" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="830" width="190" height="40" as="geometry" />
+          <mxGeometry x="539.5" y="830" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZwIduPhgEhFBwev_U_L-21" target="cZwIduPhgEhFBwev_U_L-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-21" value="将卡号与工号合并，保存至CardListF103数组" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="685" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-23" value="将卡号与工号合并，保存至CardListF103数组" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="825" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

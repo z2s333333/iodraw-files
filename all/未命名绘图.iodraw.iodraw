@@ -63,11 +63,11 @@
         <mxCell id="C91EPHdXfX4F6dO3gZxb-3" value="读取包长度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C91EPHdXfX4F6dO3gZxb-5" value="读取包长度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C91EPHdXfX4F6dO3gZxb-5" value="按包长度读取内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C91EPHdXfX4F6dO3gZxb-6" value="读取包长度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

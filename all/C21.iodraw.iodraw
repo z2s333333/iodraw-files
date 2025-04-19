@@ -205,7 +205,12 @@
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cZwIduPhgEhFBwev_U_L-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="1092.3529411764705" as="targetPoint" />
+            <mxPoint x="600" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="835" y="970" />
+              <mxPoint x="741" y="970" />
+              <mxPoint x="741" y="1040" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-27" value="报错0304：F103指令不存在" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

@@ -150,8 +150,8 @@
         <mxCell id="cZwIduPhgEhFBwev_U_L-15" value="删除该行" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="670" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cZwIduPhgEhFBwev_U_L-17" value="" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="755" width="120" height="60" as="geometry" />
+        <mxCell id="cZwIduPhgEhFBwev_U_L-17" value="将后续各行向上移动一行" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="750" width="161" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

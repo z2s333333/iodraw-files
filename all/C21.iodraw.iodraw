@@ -269,6 +269,9 @@
         <mxCell id="cZwIduPhgEhFBwev_U_L-44" value="报错0304：F103指令不存在" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="870" y="410" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-47" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

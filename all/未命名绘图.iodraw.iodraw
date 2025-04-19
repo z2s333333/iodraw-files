@@ -60,6 +60,9 @@
         <mxCell id="1WGz1v7TKa8ZzDmeS5aw-2" value="报错0301：指令核验不通过" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="C91EPHdXfX4F6dO3gZxb-1" value="报错0301：指令核验不通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

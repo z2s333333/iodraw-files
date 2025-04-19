@@ -13,6 +13,9 @@
         <mxCell id="eFBV6zxv7xC9_5RUP7oq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eFBV6zxv7xC9_5RUP7oq-2" target="eFBV6zxv7xC9_5RUP7oq-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eFBV6zxv7xC9_5RUP7oq-2" target="cZwIduPhgEhFBwev_U_L-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eFBV6zxv7xC9_5RUP7oq-2" value="5~7字节==NEW?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="200" width="160" height="80" as="geometry" />
         </mxCell>
@@ -120,6 +123,9 @@
         </mxCell>
         <mxCell id="cZwIduPhgEhFBwev_U_L-8" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="170" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cZwIduPhgEhFBwev_U_L-9" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="310" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

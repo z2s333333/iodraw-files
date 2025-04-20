@@ -11,23 +11,11 @@
             <mxPoint x="220" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="&lt;font color=&quot;#ffffff&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;strokeColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry x="0.3166" y="-13" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="320" y="330" as="targetPoint" />
-            <mxPoint x="270" y="330" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tq3IEsptfT1_Yy1kalqt-1" value="&lt;font color=&quot;#ffffff&quot;&gt;2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FFFFFF;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#000000;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="431" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SrePYNSbRv_9B1QMlILf-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tq3IEsptfT1_Yy1kalqt-5" edge="1">
+        <mxCell id="SrePYNSbRv_9B1QMlILf-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359" y="370" as="sourcePoint" />
             <mxPoint x="359" y="460" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tq3IEsptfT1_Yy1kalqt-5" value="&lt;font color=&quot;#ffffff&quot;&gt;123&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FFFFFF;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=#000000;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="319" y="290" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

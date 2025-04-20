@@ -10,8 +10,8 @@
             <mxPoint x="220" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;strokeColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="&lt;font color=&quot;#ffffff&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;strokeColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+          <mxGeometry x="0.3166" y="-13" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="320" y="330" as="targetPoint" />
           </mxGeometry>

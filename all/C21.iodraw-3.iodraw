@@ -16,8 +16,8 @@
         <mxCell id="cZwIduPhgEhFBwev_U_L-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eFBV6zxv7xC9_5RUP7oq-2" target="cZwIduPhgEhFBwev_U_L-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="290" />
-              <mxPoint x="635" y="290" />
+              <mxPoint x="300" y="309" />
+              <mxPoint x="635" y="309" />
             </Array>
           </mxGeometry>
         </mxCell>

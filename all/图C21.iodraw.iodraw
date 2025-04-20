@@ -31,6 +31,9 @@
         <mxCell id="SrePYNSbRv_9B1QMlILf-0" value="&lt;font&gt;你好&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#000000;strokeColor=#FFFFFF;shadow=0;strokeWidth=1;spacingTop=-4;spacing=6;labelBackgroundColor=none;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SrePYNSbRv_9B1QMlILf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FFFFFF;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=#000000;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="307" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

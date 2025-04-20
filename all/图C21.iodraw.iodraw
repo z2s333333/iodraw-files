@@ -10,13 +10,6 @@
             <mxPoint x="359" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wO2cJ0UiyBDrKqHh6Vrx-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;labelBorderColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="170" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="220" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wO2cJ0UiyBDrKqHh6Vrx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=#FFFFFF;strokeColor=#FFFFFF;labelBorderColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -26,9 +19,6 @@
             <mxPoint x="300" y="240" as="sourcePoint" />
             <mxPoint x="635" y="310" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="wO2cJ0UiyBDrKqHh6Vrx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;strokeColor=#FFFFFF;labelBorderColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wO2cJ0UiyBDrKqHh6Vrx-5" target="wO2cJ0UiyBDrKqHh6Vrx-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wO2cJ0UiyBDrKqHh6Vrx-5" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="10" width="100" height="60" as="geometry" />
@@ -79,7 +69,7 @@
           <mxGeometry x="995" y="167" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wO2cJ0UiyBDrKqHh6Vrx-15" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FFFFFF;fillColor=none;labelBackgroundColor=none;fontColor=#FFFFFF;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="179" y="167" width="40" height="30" as="geometry" />
+          <mxGeometry x="161" y="160" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wO2cJ0UiyBDrKqHh6Vrx-16" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FFFFFF;fillColor=none;labelBackgroundColor=none;fontColor=#FFFFFF;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="190" width="40" height="30" as="geometry" />
